@@ -1,0 +1,8 @@
+{
+  "name": "CodeCampExportShowcasePlugin",
+  "description": "This codecamp export plugin registers a new export format",
+  "namespace": "CodeCampExport",
+  "author": "plentymarkets",
+  "type": "export",
+  "serviceProvider": "CodeCampExport\\CodeCampExportServiceProvider"
+}
